@@ -1,7 +1,0 @@
-class Person
-  @@all = []
- 
-  def self.create
-    @@all << self.new
-  end
-end
